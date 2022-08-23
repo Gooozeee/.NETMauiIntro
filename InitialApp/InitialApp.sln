@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPicker", "..\ColorPicker\ColorPicker.csproj", "{6F09C693-EEBA-4F40-8AA1-FC096F5B4E06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment application", "..\Payment application\Payment application.csproj", "{27E18B03-A1CB-4190-A39C-FC730E11E4CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{6F09C693-EEBA-4F40-8AA1-FC096F5B4E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F09C693-EEBA-4F40-8AA1-FC096F5B4E06}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6F09C693-EEBA-4F40-8AA1-FC096F5B4E06}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{27E18B03-A1CB-4190-A39C-FC730E11E4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E18B03-A1CB-4190-A39C-FC730E11E4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E18B03-A1CB-4190-A39C-FC730E11E4CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{27E18B03-A1CB-4190-A39C-FC730E11E4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E18B03-A1CB-4190-A39C-FC730E11E4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E18B03-A1CB-4190-A39C-FC730E11E4CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
